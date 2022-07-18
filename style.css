@@ -1,0 +1,10 @@
+/* CSS Kodlarını buraya yazıp linkle html sayfasına bağlayacam*/
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+
+body{
+    background-color: blue;
+}
